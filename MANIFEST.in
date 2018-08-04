@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include mdio *.css
+recursive-include mdio *.csv
+recursive-include mdio *.html
+recursive-include mdio *.ico
+recursive-include mdio *.js
+recursive-include mdio *.json
+recursive-include mdio *.md
+recursive-include mdio *.png
+recursive-include mdio *.py
+recursive-include mdio *.svg
+recursive-include mdio *.txt
+recursive-exclude mdio *.pyc
