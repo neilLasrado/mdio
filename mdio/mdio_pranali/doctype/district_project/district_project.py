@@ -6,5 +6,5 @@ from __future__ import unicode_literals
 import frappe
 from frappe.model.document import Document
 
-class Project(Document):
+class DistrictProject(Document):
 	pass
