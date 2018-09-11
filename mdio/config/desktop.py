@@ -17,8 +17,8 @@ def get_data():
 			"color": "#c23c59",
 			"icon": "octicon octicon-rocket",
 			"label": _("Project"),
-			"link": "List/Project",
-			"doctype": "Project",
+			"link": "List/District Project",
+			"doctype": "District Project",
 			"type": "list"
 		}
 	}
