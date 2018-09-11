@@ -1,0 +1,1 @@
+execute:frappe.rename_doc("DocType", "Project", "District Project", force=True)
